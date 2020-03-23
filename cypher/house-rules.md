@@ -15,6 +15,7 @@
 
 ### Benefit XP Sources
 | Source                                   | BXP | Limit            | Notes                                           |
+| ---------------------------------------- | --- | ---------------- | ----------------------------------------------- |
 | GM Intrusion                             | 1   |                  | The group BXP pool also gets 1                  |
 | Discovery: Artifact                      | 1+  |                  | Split among group, artifact level / players     |
 | Discovery: Purpose of an installation    | 1+  |                  | Split among group, installation level / players |
