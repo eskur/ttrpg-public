@@ -6,8 +6,10 @@
 
 ## Game modifications
 ### XP
-- One advancement is awarded each session. **XP cannot be spent on advancements.**
-- XP can be spent on rerolls, short/medium/long term benefits, etc.
+- Advancement XP (AXP) is awarded at the end of each session. 
+- Benefits XP (BXP) is awarded for GM intrusions, discoveries, etc.
+- **Benefits XP cannot be spent on advancements.**
+- Benefits XP can be spent on rerolls, short/medium/long term benefits, etc.
 - As characters tier up, they require more advancements to reach the next tier.
 
 | Tier   | Advancements |
@@ -22,7 +24,7 @@
 - All characters who are unskilled in Numenera count as untrained. (They do not have an inability).
 
 ### Game Flow
-- *Let it Ride*: You may not reroll a task **unless**: you spend 1XP, the situation changes, or you use a different approach.
+- *Let it Ride*: You may not reroll a task **unless**: you spend 1BXP, the situation changes, or you use a different approach.
 
 ### Character creation
 You may use any material from the Numenera or Cypher books, with the exception of:
