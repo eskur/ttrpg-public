@@ -35,3 +35,25 @@ If you would like to use something from other settings published by MCG, let me 
 - If you write a decent backstory for your character, you start with +2 XP (one time)
 - At the start each session, if you write a character goal, you get +1 XP
 
+#### Mutations
+I don't use the mutant descriptor. Anyone can have mutations, but they have costs.
+
+When creating a character with mutations, first pick a different descriptor. Then, work with your GM to exchange abilities from that descriptor for AXP. You may randomly roll for standard cost, or chose mutations for a higher cost. During character creation you may use AXP from other sources to buy mutations.
+
+| Descriptor Ability Type | AXP Cost |
+| +2 to Pool              | 2        |
+| +4 to Pool              | 4        |
+| Narrow Skill            | 2        |
+| Narrow Inability        | -2       |
+| Broad Skill             | 4        |
+| Broad Inability         | -4       |
+| Unique Ability          | 4        |
+
+| Mutation Type | AXP Cost (Rolled) | AXP Cost (Chosen) | Limit |
+| Cosmetic      | 0                 | 0                 | 4     |
+| Beneficial    | 2                 | 3                 | 4     |
+| Powerful      | 4                 | 6                 | 2     |
+| Distinctive   | 4                 | 6                 | 2     |
+| Harmful       | -4                | -2                | 2     |
+
+Some mutations may need mechanical modifications if they impact character interactions.
