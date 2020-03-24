@@ -3,7 +3,7 @@
 - Be patient.
 - If you are significantly late, you won't be able to play the session.
 - Let me know ahead of time if you can't make the session.
-- If there is an updated version of a piece of content (type, focus, descriptor, etc), you must use the updated version.
+- If there is an updated version of something (type, focus, descriptor, cypher, artifact, etc), you must use the most recent version.
 
 # Game modifications
 ## XP
@@ -38,21 +38,38 @@ As characters tier up, they require more advancements to reach the next tier.
 ## Tasks
 - *Let it Ride*: You may not reroll a task **unless**: you spend 1BXP, the situation changes, or you use a different approach. Additionally, a task can be attempted a maximum of three times.
 
+### Graduated Success
+*See Discovery pg323, CSR pg417*
+
+### Partial Success
+
+## Initiative
+*There is no initiative (roll).*
+
+- **Initiative is based on the current state of the fiction.** 
+- The players go first if they are acting with advantage, surprise, or initiative. 
+- If the players are reacting, surprised, or at a disadvantage, the NPC's go first. 
+- If neither side has an advantage the group can either: spend 2BXP to go first, or roll a d20. On 11+ the players go first.
+- All the players act, then all the NPC's act.
+- During the players' turn, players take actions as they make sense in the fiction. 
+
 ## Numenera
 - All characters who are unskilled in Numenera count as untrained. (They do not have an inability).
-### Alternative salvage rules 
-*credit to @Maelfectious#9513*
 
-- Each player may attempt to salvage a Numenera salvage site independently **one time**.
-- Results are determined by rolling on result tables.
+### Alternative salvage rules 
+*credit to @Maelfectious#9513 for salvaging overhaul*
+
+- Each player may attempt to salvage a Numenera salvage site **one time**.
+- Results are determined by rolling on salvage result tables.
 
 ## Character creation
+If you write a decent backstory for your character, you get +4 AXP (one time).
+
 You may use any material from the Numenera or Cypher books, with the exception of:
+
 - Focus: Travels through Time
 
 If you would like to use something from other settings published by MCG, let me know can we can reskin it for Numenera.
-
-If you write a decent backstory for your character, you get +4 AXP (one time).
 
 ### Mutations
 The mutant descriptor is not used. Anyone can have mutations, but they have costs.
