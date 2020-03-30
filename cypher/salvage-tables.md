@@ -12,3 +12,6 @@
 | 8  | 6       | 6d6   | 6d6   |
 | 9  | 7       | 7d6   | 7d6   |
 | 10 | 8       | 8d6   | 8d6   |
+
+### Anydice
+[parts/shins v01](https://anydice.com/program/1aaaf)

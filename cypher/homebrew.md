@@ -1,10 +1,13 @@
 # Game modifications
 ## XP
-- Advancement XP (AXP) is awarded at the end of each session. The amount is up to the GM. 
+- Advancement XP (AXP) are awarded at the end of each session. The amount is up to the GM. 
 - Story Points (SP) are awarded for GM intrusions, discoveries, etc.
 - **Story Points cannot be spent on advancements.**
 - Story Points can be spent on rerolls, short/medium/long term benefits, etc.
 - Advancement XP may be used as Story Points (although this is probably a last resort).
+- A character can have up to 10 combined AXP/SP. AXP/SP earned beyond that is discarded.
+
+*Note: Also consider giving out AXP for completing milestones / character arcs. See CSR pg238*
 
 | Story Points Sources                     | SP  | Limit            | Notes                                           |
 | ---------------------------------------- | --- | ---------------- | ----------------------------------------------- |
@@ -16,6 +19,11 @@
 | Making progress towards a character goal | 1   | Once per session |                                                 |
 | Completing a character goal              | 2+  | Once per session |                                                 |
 
+### Intrusions
+
+Intrusions now award 1SP to the player, and 1SP to the group SP pool. With the
+permission of the group, a player may use SP from the group pool.
+
 ### Advancements
 As characters tier up, they require more advancements to reach the next tier.
 
@@ -26,6 +34,8 @@ As characters tier up, they require more advancements to reach the next tier.
 | 3 to 4 | 5                   |
 | 4 to 5 | 6                   |
 | 5 to 6 | 6                   |
+
+In addition to the current options for advancement, characters may buy mutations as advancements. See [Character Creation](https://github.com/eskur/ttrpg-public/blob/master/cypher/character-creation.md) 
 
 ## Tasks
 *Let it Ride*: You may not reroll a task **unless**: you spend 1SP, the situation changes, or you use a different approach. Additionally, a task can be attempted a maximum of three times.
@@ -39,7 +49,7 @@ You make a bargain with the Outside. They will help you succeed where you would 
 
 ## Skills
 - All characters who are unskilled in Numenera count as untrained. (They do not have an inability).
-- Healing is a graduated roll. For example, a player rolls a tasking task and passes difficulty 4. They heal 4 points.
+- Healing is always a graduated roll. For example, a player rolls a tasking task and passes difficulty 4. They heal 4 points.
 
 ## Initiative
 *There is no initiative (roll).*
@@ -47,46 +57,12 @@ You make a bargain with the Outside. They will help you succeed where you would 
 - **Initiative is based on the current state of the fiction.** 
 - The players go first if they are acting with advantage, surprise, or initiative. 
 - If the players are reacting, surprised, or at a disadvantage, the NPC's go first. 
-- If neither side has an advantage the group can either: spend 2SP to go first, or roll a d20. On 11+ the players go first.
-- All the players act, then all the NPC's act.
-- During the players' turn, players take actions as they make sense in the fiction. 
+- If neither side has an advantage the players can either: spend 2SP to go first, or roll a d20. On 11+ the players go first.
+- During the players' turn, players negotiate and take actions as they make sense in the fiction. 
+- NPC's may act once per round according to GM fiat, usually in reaction to player actions.
+- A round finishes when all participants have acted.
+- If a player takes their turn last during a round, they cannot go first in the next round.
 
 ### Salvaging
-*credit to @Maelfectious#9513 for salvaging overhaul*
 
-Each player may attempt to salvage the same Numenera salvage site **one time**, then it is depleted for that player.
-
-#### Steps
-- The player declares if they are salvaging for Iotum or Cyphers
-- The GM sets the maximum difficulty. Either the salvage target's level, or one chosen by the GM.
-- The player rolls a graduated task, which may not exceed the maximum task difficulty.
-- The GM rolls a number of times on the salvage table corresponding to the difficulty the player succeeded at. (consult the following table.)
-
-| Player's Natural Roll | Salvage Table Rolls | Extra Effect |
-| --------------------: | ------------------- | ------------ |
-| 1-4                   | 1                   |              |
-| 5-10                  | 2                   |              |
-| 11-18                 | 3                   |              |
-| 19                    | 3                   | Minor        |
-| 20                    | 3                   | Major        |
-
-| Extra Effects                                                     | Type  | SP Cost  |
-| ----------------------------------------------------------------- | ----- | -------: |
-| Double the Iotum or Cyphers                                       | Minor | 0        |
-| A random cypher                                                   | Minor | 0        |
-| A roll on a random salvage table (roll a d10 to decide which one) | Minor | 0        |
-| Reroll any salvage result (roll again on the same table)          | Minor | 0        |
-| Roll on the salvage table for the next difficulty level           | Minor | 0        |
-| Increase a Cypher level by 1                                      | Minor | 0        |
-| ----------------------------------------------------------------- | ----- | -------: |
-| Gain a random artifact                                            | Major | 3        |
-| Gain 5d20 Iotum                                                   | Major | 2        |
-| Gain 3d6km (keep middle) of a specific Iotum (GM's choice)        | Major | 2        |
-| Find a random plan                                                | Major | 2        |
-| Find a specific plan                                              | Major | 3        |
-
-#### Examples
-- A player is salvaging a rich salvage site. The GM declares it has maximum difficulty of 7. The player rolls a 15 and is specialized in salvaging, which beats difficulty 7. The player rolls 3 times on salvage table 7.
-- After defeating a level 6 automaton, the player goes to salvage it. The maximum difficulty is 6. The player rolls a 9, and is trained in salvaging, which beats difficulty 4. The player rolls 2 times on salvage table 4.
-- The group finds a level 3 installation, and the player salvages it. The maximum difficulty is 3. The player rolls a 20, and is specialized in salvaging, which beats difficulty 8. The player rolls 3 times on salvage table 3, and gets a major effect.
-
+See [Salvaging](https://github.com/eskur/ttrpg-public/blob/master/cypher/salvaging.md)

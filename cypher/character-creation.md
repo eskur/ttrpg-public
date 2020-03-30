@@ -12,6 +12,9 @@ The mutant descriptor is not used. Anyone can have mutations, but they have cost
 
 When creating a character with mutations, first pick a different descriptor. Then work with your GM to exchange abilities from that descriptor for AXP. You may randomly roll mutations for standard cost, or chose mutations for a higher cost. During character creation you may use AXP from other sources to buy mutations.
 
+1 powerful/distinctive mutation counts as an advancement. 
+2 beneficial mutations also count as an advancement.
+
 | Descriptor Ability Type  | AXP Cost  |
 | -----------------------: | --------: |
 | +2 to Pool               | 2         |
@@ -33,4 +36,3 @@ When creating a character with mutations, first pick a different descriptor. The
 | Harmful       | -4                | -2                | 2     |
 
 Some mutations may need mechanical modifications if they impact character interactions.
-
