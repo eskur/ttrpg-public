@@ -1,31 +1,68 @@
 # Game modifications
-## XP
-- Advancement XP (AXP) are awarded at the end of each session. The amount is up to the GM. 
-- Story Points (SP) are awarded for GM intrusions, discoveries, etc.
+
+# Experience
+
+XP now has two two forms, Advancement Points (AP), and story points (SP). 
+
+## Overview
+- Advancement Points (AP) are awarded at the discretion of the GM. Usually this is after each session.
+- Story Points (SP) are gained from the triggers in the table below.
 - **Story Points cannot be spent on advancements.**
 - Story Points can be spent on rerolls, short/medium/long term benefits, etc.
-- Advancement XP may be used as Story Points (although this is probably a last resort).
-- A character can have up to 10 combined AXP/SP. AXP/SP earned beyond that is discarded.
+- Advancement Points can be used as Story Points (although this is probably a last resort).
+- A character can have up to 10 combined SP. SP earned beyond that is discarded.
 
-*Note: Also consider giving out AXP for completing milestones / character arcs. See CSR pg238*
+*GM Note: Consider giving out AP for completing milestones / character arcs. See CSR pg238*
 
-| Story Points Sources                     | SP  | Limit            | Notes                                           |
-| ---------------------------------------- | --- | ---------------- | ----------------------------------------------- |
-| GM Intrusion                             | 1   |                  | The group SP pool also gets 1                   |
-| Discovery: Artifact                      | 1+  |                  | Split among group, artifact level / players     |
-| Discovery: Purpose of an installation    | 1+  |                  | Split among group, installation level / players |
-| Discovery: Strange                       | 1   |                  | Split among group                               |
-| Writing a character goal                 | 1   | Once per session |                                                 |
-| Making progress towards a character goal | 1   | Once per session |                                                 |
-| Completing a character goal              | 2+  | Once per session |                                                 |
+| Story Point Triggers                                 | SP  | Notes                                           |
+| ---------------------------------------------------- | --- | ----------------------------------------------- |
+| Accepting a GM Intrusion                             | 1   | The group SP pool also gets 1 SP                |
+| Discovery: Artifact                                  | 1+  | Split among group, artifact level / players     |
+| Discovery: Purpose of an installation                | 1+  | Split among group, installation level / players |
+| Discovery: Strange                                   | 1+  | Split among group, level / players              |
+| Clever use of a cypher or artifact                   | 1   |                                                 |
+| Writing a session goal for your character            | 0   |                                                 |
+| Making progress towards a session goal               | 1   |                                                 |
+| Completing a session goal                            | 2+  |                                                 |
+| Roleplaying your character's background or heritage  | 1+  |                                                 |
+| Roleplaying your character's beliefs                 | 1+  |                                                 |
 
-### Intrusions
+The costs for some non-advancement benefits have been modified. In general, short-term and medium-term benefits have been reduced in cost to make them worth getting. There are also some new ways to spend SP.
 
-Intrusions now award 1SP to the player, and 1SP to the group SP pool. With the
-permission of the group, a player may use SP from the group pool.
+**This is not an exhaustive list, if you have an idea for something not on this list feel free to suggest it.**
+
+| Spending Story Points                           | Cost (SP) | Notes                                        |
+| ----------------------------------------------- | --------: | -------------------------------------------- |
+| **Immediate Benefits**                          |           |                                              |
+| Reroll a attemped task                          | 1         | Can be your roll or another character's      |
+| Refuse a GM intrusion                           | 1         |                                              |
+| Take an extra action during a round             | 1         |                                              |
+| Gain a free recovery roll                       | 1         |                                              |
+| Reduce a task's difficulty by 1 step            | 1         |                                              |
+| Augment an ability, cypher, artifact, or device | 1         | Lasts for one use                            |
+| Gain inspiration (GM Hints)                     | 1         |                                              |
+| **Short and Medium-term Benefits**              |           |                                              |
+| Gain niche training                             | 1         | Permanent                                    |
+| Gain broad training                             | 1         | Lasts for a scenario.                        |
+| Temporarily gain an ability                     | 1         | Lasts for a scenario.                        |
+| Temporarily reactivate a cypher or artifact     | 1         | Depletes again after use.                    |
+| Gain a situational aid or device                | 1         | Lasts for a scenario.                        |
+| **Long-term Benefits**                          |           |                                              |
+| Find an artifact while salvaging                | 3         | Does not trigger SP for Discovery: Artifact  |
+| Gain a contact                                  | 3         |                                              |
+| Gain a home                                     | 3         |                                              |
+| Gain a title of job                             | 3         |                                              |
+| Gain wealth                                     | 3         |                                              |
+| Other long-term story-based benefits            | 3         |                                              |
+
+### GM Intrusions
+
+GM Intrusions now award 1SP to the player, and 1SP to the group SP pool. With the
+permission of the group, a player can use SP from the group pool.
 
 ### Advancements
-As characters tier up, they require more advancements to reach the next tier.
+- Advancements cost 4 AP. 
+- As characters tier up, they require more advancements to reach the next tier.
 
 | Tier   | Advancements Needed |
 | ------ | -------------------:|
@@ -35,34 +72,87 @@ As characters tier up, they require more advancements to reach the next tier.
 | 4 to 5 | 6                   |
 | 5 to 6 | 6                   |
 
-In addition to the current options for advancement, characters may buy mutations as advancements. See [Character Creation](https://github.com/eskur/ttrpg-public/blob/master/cypher/character-creation.md) 
+#### Types of advancements
 
-## Tasks
-*Let it Ride*: You may not reroll a task **unless**: you spend 1SP, the situation changes, or you use a different approach. Additionally, a task can be attempted a maximum of three times.
+**Each of these can be chosen once per tier.**
+
+| Name                     | Effect                                      |
+| ------------------------ | ------------------------------------------- |
+| Increasing Capabilities  | +4 to a Pool                                |
+| Moving Toward Perfection | +1 to an Edge                               |
+| Extra Effort             | +1 to Effort                                |
+| Skills                   | Become trained or specialized in a skill    |
+| Armor Training           | Reduce the Speed cost of wearing armor by 1 |
+| Faster Recovery          | +2 to Recovery rolls                        |
+| Extra Ability            | Gain an ability from your Type of Focus     |
+| Mutate                   | Gain a mutation                             |
+
+See [Character Creation](https://github.com/eskur/ttrpg-public/blob/master/cypher/character-creation.md) for more information on gaining mutations.
+
+# Tasks
+*Let it Ride*: You can reattempt a failed task under the following circumstances: 
+
+- you have an ability that allows it such as late inspiration
+- you try a different approach 
+- you spend 1SP
+- the situation changes
+
+**Note: this means you cannot attempt a task again in the same way by applying effort.**
+
+Additionally, each task can be attempted a maximum of three times.
+
 
 ### Graduated Success
-Some tasks may have an open difficulty. *See Discovery pg323, CSR pg417*
-Graduated tasks are declared beforehand by the GM.
+Graduated tasks are rolled with no difficulty, and the difficulty passed determines the quality of the outcome. These are often called *"open"* rolls.
 
-### Bargains with the Outside
-You make a bargain with the Outside. They will help you succeed where you would have failed, for a price. If you fail a task by less than half the target number, you can accept a GM intrusion for no SP to succeed at the task. Narrate how you narrowly snatch victory from the jaws of defeat.
+Graduated tasks are always declared beforehand by the GM.
 
-## Skills
-- All characters who are unskilled in Numenera count as untrained. (They do not have an inability).
+*Also see Discovery pg323, CSR pg417*
+
+#### Example
+
+Neva's group is delving in an ancient Numenera ruin. Neva takes the lead, and as she enters a new room, the GM asks for a graduated perception roll. 
+
+Depending on what difficulty Neva's roll passes, she might:
+- Spot none of the traps. 
+- Spot a some of the traps. 
+- Spot all the traps.
+- Spot all the traps, and get an advantage (an asset on a future task for example). 
+
+### Bargains with the Outside (Partial success & Converting failures)
+You make a bargain with the Outside. They will help you succeed where you would have failed, for a price. If you fail a task by one difficulty step, you can accept a GM intrusion for no SP to succeed at the task. If you refuse this intrusion, you must pay 2SP.
+
+Narrate how you narrowly snatch victory from the jaws of defeat. What happens that is unexpected?
+
+#### Example
+
+Falnor (played by Jake) is adventuring with Alice, and they come across an ancient Numenera installation. Falnor tries to figure out what its purpose is, how it works, and why it isn't operational. 
+
+The GM assigns a task difficulty of 6. Jake rolls a 15, which passes difficulty 5. Falnor can tell he is close, but can't quite figure out how the installation works. He decides to bargain with the outside, and Jake accepts a GM intrusion for no SP.
+
+The GM and Jake decide that a good intrusion would be for the installation to be missing some key parts. 
+
+Falnor succeeds in discovering the purpose of the installation, it is a weather control spire. However, it is missing parts, and it is going to try to start up soon. If it starts without those parts, the valley the tower is in will enter an ice age.
+
+Also see [House Rule: Succeed at Cost](https://old.reddit.com/r/numenera/comments/2tcll4/house_rule_succeed_at_cost/) and [Interesting Failures](https://d20.rs/2019/04/15/interesting-failures/)
+
+### Skills
+- All characters who are unskilled in Numenera count as untrained. They do not have an inability.
 - Healing is always a graduated roll. For example, a player rolls a tasking task and passes difficulty 4. They heal 4 points.
 
-## Initiative
-*There is no initiative (roll).*
+# Initiative
+
+**There is no initiative (roll).**
 
 - **Initiative is based on the current state of the fiction.** 
 - The players go first if they are acting with advantage, surprise, or initiative. 
 - If the players are reacting, surprised, or at a disadvantage, the NPC's go first. 
 - If neither side has an advantage the players can either: spend 2SP to go first, or roll a d20. On 11+ the players go first.
 - During the players' turn, players negotiate and take actions as they make sense in the fiction. 
-- NPC's may act once per round according to GM fiat, usually in reaction to player actions.
+- NPC's may act once per round at the discretion of the GM, usually in reaction to player actions.
 - A round finishes when all participants have acted.
 - If a player takes their turn last during a round, they cannot go first in the next round.
 
-### Salvaging
+# Salvaging
 
 See [Salvaging](https://github.com/eskur/ttrpg-public/blob/master/cypher/salvaging.md)
