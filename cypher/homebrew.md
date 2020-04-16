@@ -120,19 +120,36 @@ Depending on what difficulty Neva's roll passes, she might:
 - Spot all the traps, and get an advantage (an asset on a future task for example). 
 
 ### Bargains with the Outside (Partial success & Converting failures)
-You make a bargain with the Outside. They will help you succeed where you would have failed, for a price. If you fail a task by one difficulty step, you can accept a GM intrusion for no SP to succeed at the task. If you refuse this intrusion, you must pay 2SP.
+You make a bargain with the Outside. They will help you succeed where you would have failed, for a price. If you fail a task by one difficulty step, you can accept a GM intrusion for no SP to succeed at the task. If you refuse this intrusion, pay 2SP.
 
 Narrate how you narrowly snatch victory from the jaws of defeat. What happens that is unexpected?
 
 #### Example
 
-Falnor (played by Jake) is adventuring with Alice, and they come across an ancient Numenera installation. Falnor tries to figure out what its purpose is, how it works, and why it isn't operational. 
+Falnor (played by Jake) is adventuring with Neva in a desert. They come across an ancient tower making a low humming noise. Around it are dead trees and a dried up riverbed.
 
-The GM assigns a task difficulty of 6. Jake rolls a 15, which passes difficulty 5. Falnor can tell he is close, but can't quite figure out how the installation works. He decides to bargain with the outside, and Jake accepts a GM intrusion for no SP.
+**Falnor**: I go over to the tower and investigate. Can I figure out what it does, and how it works?
 
-The GM and Jake decide that a good intrusion would be for the installation to be missing some key parts. 
+**GM**: I'm going to call that a difficulty 6 Numenera Understanding task, go for it.
 
-Falnor succeeds in discovering the purpose of the installation, it is a weather control spire. However, it is missing parts, and it is going to try to start up soon. If it starts without those parts, the valley the tower is in will enter an ice age.
+*Jake rolls a 15, which passes difficulty 5. Almost!*
+
+**GM**: You can tell you are close. The design appears highly advanced. You can see there are some sections with power, and others that are dark. Would you like to Bargain with the Outside?
+
+**Jake**: Yeah, I want to figure this out. What's the bargain?
+
+**GM**: I think the machine is missing some key parts. It is trying to start up again, and if it gets far enough in the start up sequence without those parts something catastrophic will happen. Got any ideas for that?
+
+**Jake**: Maybe it activates is a burst? All the power gets consumed in one go, and the machine is fried.
+
+**GM**: I like it. So how does Falnor figure out how the machine works?
+
+**Falnor**: As I'm poking around the panels on the machine I see a button with a familiar word. I push it, the interface changes, and I can read it now. What can I see on the status display?
+
+**GM**: The tower seems to be a weather control device. It used to maintain the area around it as an oasis. You can tell it is trying to start up again, and the power limiter is missing. If you wait too long it will go haywire. At the top right of the screen there a progress bar that reads "STARTUP 73%, ESTIMATED TIME REMAINING: 24 MINUTES".
+
+**GM**: What do you do?
+
 
 Also see [House Rule: Succeed at Cost](https://old.reddit.com/r/numenera/comments/2tcll4/house_rule_succeed_at_cost/) and [Interesting Failures](https://d20.rs/2019/04/15/interesting-failures/)
 
